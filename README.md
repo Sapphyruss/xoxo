@@ -40,6 +40,6 @@ SOFTWARE.
 
 ## Screenshots
 
-![App]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1920px-Tic_tac_toe.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1920px-Tic_tac_toe.svg.png)
+!(https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1920px-Tic_tac_toe.svg.png)
 
 

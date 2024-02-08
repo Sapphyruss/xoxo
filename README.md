@@ -7,7 +7,7 @@ Two player XOXO game for Desktop using Python.
 
 ## Authors
 
-- [@oSapphyruss](https://www.github.com/Sapphyruss)
+- [@Sapphyruss](https://www.github.com/Sapphyruss)
 
 
 ## Installation

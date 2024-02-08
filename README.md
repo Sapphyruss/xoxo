@@ -40,6 +40,6 @@ SOFTWARE.
 
 ## Screenshots
 
-!(https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1920px-Tic_tac_toe.svg.png)
+![app](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1920px-Tic_tac_toe.svg.png)
 
 

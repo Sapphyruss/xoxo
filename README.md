@@ -13,7 +13,6 @@ Two player XOXO game for Desktop using Python.
 ## Installation
 
 '''git clone https://github.com/Sapphyruss/xoxo.git'''
-'''python3 xoxo.py'''
     
 ## License
 

@@ -1,21 +1,47 @@
-<h1 align="center">Hi 👋, I'm Sapphyruss</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapphyruss&label=Profile%20views&color=0e75b6&style=flat" alt="sapphyruss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapphyruss" alt="sapphyruss" /></a> </p>
+# Project Title
 
-- 🔭 I’m currently working on [XOXO](https://github.com/Sapphyruss/xoxo/tree/main)
+Two player XOXO game for Desktop using Python.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Authors
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- [@octokatherine](https://www.github.com/Sapphyruss)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapphyruss&show_icons=true&locale=en&layout=compact" alt="sapphyruss" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sapphyruss&show_icons=true&locale=en" alt="sapphyruss" /></p>
+## Installation
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapphyruss&" alt="sapphyruss" /></p>
+git clone https://github.com/Sapphyruss/xoxo.git
+python3 xoxo.py
+    
+## License
 
+MIT License
+
+Copyright (c) [2024] [Zahira]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 

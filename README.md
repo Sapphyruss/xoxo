@@ -2,6 +2,8 @@
 # Project Title
 
 Two player XOXO game for Desktop using Python.
+![app](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1920px-Tic_tac_toe.svg.png)
+
 
 ## Authors
 
@@ -38,8 +40,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-## Screenshots
-
-![app](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1920px-Tic_tac_toe.svg.png)
 
 

@@ -9,6 +9,7 @@
 ## Installation
 
 ```git clone https://github.com/Sapphyruss/xoxo.git```
+```pythin3 xoxo.py```
     
 ## License
 

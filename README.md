@@ -8,7 +8,7 @@
 
 ## Installation
 
-```git clone https://github.com/Sapphyruss/xoxo.git``` \n ```python3 xoxo.py```
+```git clone https://github.com/Sapphyruss/xoxo.git \n python3 xoxo.py``` 
     
 ## License
 

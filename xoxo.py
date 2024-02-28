@@ -209,6 +209,5 @@ class X_O():
             self.play_again()
             self.reset_board = False
 
-
 game_instance = X_O()
 game_instance.mainloop()
